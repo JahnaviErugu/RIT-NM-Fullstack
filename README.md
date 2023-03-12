@@ -1,0 +1,2 @@
+An inventory management system (or inventory system) is the process by which you track your goods throughout your entire supply chain, from purchasing to production to end sales. It governs how you approach inventory management for your business.Each company will manage stock in their own unique way, depending on the nature and size of their business.
+MongoDB is used for backend connection.
